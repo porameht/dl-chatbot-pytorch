@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot (Intent classification is used in supervised learning to appropriately categorize natural language utterances or text.)
 
 A simple chatbot implementation using PyTorch, NLTK, and JSON.
 
